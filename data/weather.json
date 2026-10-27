@@ -1,0 +1,1374 @@
+{
+  "Buenos Aires": [
+    {
+      "month": 1,
+      "avg_max_c": 30,
+      "avg_min_c": 20,
+      "precipitation_mm": 120,
+      "snow": false,
+      "summary": "caluroso, con lluvias ocasionales"
+    },
+    {
+      "month": 2,
+      "avg_max_c": 29,
+      "avg_min_c": 19,
+      "precipitation_mm": 115,
+      "snow": false,
+      "summary": "caluroso, con lluvias ocasionales"
+    },
+    {
+      "month": 3,
+      "avg_max_c": 26,
+      "avg_min_c": 17,
+      "precipitation_mm": 135,
+      "snow": false,
+      "summary": "templado, con lluvias ocasionales"
+    },
+    {
+      "month": 4,
+      "avg_max_c": 23,
+      "avg_min_c": 14,
+      "precipitation_mm": 105,
+      "snow": false,
+      "summary": "templado, con lluvias ocasionales"
+    },
+    {
+      "month": 5,
+      "avg_max_c": 19,
+      "avg_min_c": 10,
+      "precipitation_mm": 90,
+      "snow": false,
+      "summary": "fresco, con lluvias ocasionales"
+    },
+    {
+      "month": 6,
+      "avg_max_c": 16,
+      "avg_min_c": 8,
+      "precipitation_mm": 60,
+      "snow": false,
+      "summary": "fresco, con lluvias ocasionales"
+    },
+    {
+      "month": 7,
+      "avg_max_c": 15,
+      "avg_min_c": 7,
+      "precipitation_mm": 60,
+      "snow": false,
+      "summary": "fresco, con lluvias ocasionales"
+    },
+    {
+      "month": 8,
+      "avg_max_c": 17,
+      "avg_min_c": 8,
+      "precipitation_mm": 65,
+      "snow": false,
+      "summary": "fresco, con lluvias ocasionales"
+    },
+    {
+      "month": 9,
+      "avg_max_c": 19,
+      "avg_min_c": 10,
+      "precipitation_mm": 80,
+      "snow": false,
+      "summary": "fresco, con lluvias ocasionales"
+    },
+    {
+      "month": 10,
+      "avg_max_c": 22,
+      "avg_min_c": 13,
+      "precipitation_mm": 125,
+      "snow": false,
+      "summary": "templado, con lluvias ocasionales"
+    },
+    {
+      "month": 11,
+      "avg_max_c": 26,
+      "avg_min_c": 16,
+      "precipitation_mm": 110,
+      "snow": false,
+      "summary": "templado, con lluvias ocasionales"
+    },
+    {
+      "month": 12,
+      "avg_max_c": 28,
+      "avg_min_c": 18,
+      "precipitation_mm": 105,
+      "snow": false,
+      "summary": "caluroso, con lluvias ocasionales"
+    }
+  ],
+  "Mendoza": [
+    {
+      "month": 1,
+      "avg_max_c": 32,
+      "avg_min_c": 18,
+      "precipitation_mm": 40,
+      "snow": false,
+      "summary": "caluroso, mayormente seco"
+    },
+    {
+      "month": 2,
+      "avg_max_c": 30,
+      "avg_min_c": 17,
+      "precipitation_mm": 35,
+      "snow": false,
+      "summary": "caluroso, mayormente seco"
+    },
+    {
+      "month": 3,
+      "avg_max_c": 27,
+      "avg_min_c": 14,
+      "precipitation_mm": 30,
+      "snow": false,
+      "summary": "caluroso, mayormente seco"
+    },
+    {
+      "month": 4,
+      "avg_max_c": 23,
+      "avg_min_c": 10,
+      "precipitation_mm": 15,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 5,
+      "avg_max_c": 18,
+      "avg_min_c": 5,
+      "precipitation_mm": 10,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 6,
+      "avg_max_c": 15,
+      "avg_min_c": 2,
+      "precipitation_mm": 8,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 7,
+      "avg_max_c": 14,
+      "avg_min_c": 1,
+      "precipitation_mm": 8,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 8,
+      "avg_max_c": 17,
+      "avg_min_c": 3,
+      "precipitation_mm": 8,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 9,
+      "avg_max_c": 20,
+      "avg_min_c": 7,
+      "precipitation_mm": 12,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 10,
+      "avg_max_c": 25,
+      "avg_min_c": 11,
+      "precipitation_mm": 18,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 11,
+      "avg_max_c": 28,
+      "avg_min_c": 14,
+      "precipitation_mm": 20,
+      "snow": false,
+      "summary": "caluroso, mayormente seco"
+    },
+    {
+      "month": 12,
+      "avg_max_c": 31,
+      "avg_min_c": 17,
+      "precipitation_mm": 30,
+      "snow": false,
+      "summary": "caluroso, mayormente seco"
+    }
+  ],
+  "Córdoba": [
+    {
+      "month": 1,
+      "avg_max_c": 31,
+      "avg_min_c": 18,
+      "precipitation_mm": 120,
+      "snow": false,
+      "summary": "caluroso, con lluvias ocasionales"
+    },
+    {
+      "month": 2,
+      "avg_max_c": 29,
+      "avg_min_c": 17,
+      "precipitation_mm": 100,
+      "snow": false,
+      "summary": "caluroso, con lluvias ocasionales"
+    },
+    {
+      "month": 3,
+      "avg_max_c": 27,
+      "avg_min_c": 16,
+      "precipitation_mm": 95,
+      "snow": false,
+      "summary": "caluroso, con lluvias ocasionales"
+    },
+    {
+      "month": 4,
+      "avg_max_c": 24,
+      "avg_min_c": 12,
+      "precipitation_mm": 45,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 5,
+      "avg_max_c": 21,
+      "avg_min_c": 8,
+      "precipitation_mm": 20,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 6,
+      "avg_max_c": 18,
+      "avg_min_c": 5,
+      "precipitation_mm": 10,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 7,
+      "avg_max_c": 18,
+      "avg_min_c": 4,
+      "precipitation_mm": 10,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 8,
+      "avg_max_c": 21,
+      "avg_min_c": 6,
+      "precipitation_mm": 10,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 9,
+      "avg_max_c": 23,
+      "avg_min_c": 8,
+      "precipitation_mm": 30,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 10,
+      "avg_max_c": 26,
+      "avg_min_c": 12,
+      "precipitation_mm": 70,
+      "snow": false,
+      "summary": "templado, con lluvias ocasionales"
+    },
+    {
+      "month": 11,
+      "avg_max_c": 28,
+      "avg_min_c": 15,
+      "precipitation_mm": 100,
+      "snow": false,
+      "summary": "caluroso, con lluvias ocasionales"
+    },
+    {
+      "month": 12,
+      "avg_max_c": 30,
+      "avg_min_c": 17,
+      "precipitation_mm": 130,
+      "snow": false,
+      "summary": "caluroso, con lluvias ocasionales"
+    }
+  ],
+  "Rosario": [
+    {
+      "month": 1,
+      "avg_max_c": 30,
+      "avg_min_c": 18,
+      "precipitation_mm": 110,
+      "snow": false,
+      "summary": "caluroso, con lluvias ocasionales"
+    },
+    {
+      "month": 2,
+      "avg_max_c": 29,
+      "avg_min_c": 18,
+      "precipitation_mm": 120,
+      "snow": false,
+      "summary": "caluroso, con lluvias ocasionales"
+    },
+    {
+      "month": 3,
+      "avg_max_c": 26,
+      "avg_min_c": 16,
+      "precipitation_mm": 140,
+      "snow": false,
+      "summary": "templado, con lluvias ocasionales"
+    },
+    {
+      "month": 4,
+      "avg_max_c": 23,
+      "avg_min_c": 12,
+      "precipitation_mm": 100,
+      "snow": false,
+      "summary": "templado, con lluvias ocasionales"
+    },
+    {
+      "month": 5,
+      "avg_max_c": 19,
+      "avg_min_c": 8,
+      "precipitation_mm": 50,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 6,
+      "avg_max_c": 16,
+      "avg_min_c": 5,
+      "precipitation_mm": 35,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 7,
+      "avg_max_c": 15,
+      "avg_min_c": 4,
+      "precipitation_mm": 30,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 8,
+      "avg_max_c": 17,
+      "avg_min_c": 6,
+      "precipitation_mm": 40,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 9,
+      "avg_max_c": 20,
+      "avg_min_c": 8,
+      "precipitation_mm": 50,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 10,
+      "avg_max_c": 23,
+      "avg_min_c": 11,
+      "precipitation_mm": 110,
+      "snow": false,
+      "summary": "templado, con lluvias ocasionales"
+    },
+    {
+      "month": 11,
+      "avg_max_c": 26,
+      "avg_min_c": 14,
+      "precipitation_mm": 120,
+      "snow": false,
+      "summary": "templado, con lluvias ocasionales"
+    },
+    {
+      "month": 12,
+      "avg_max_c": 29,
+      "avg_min_c": 17,
+      "precipitation_mm": 125,
+      "snow": false,
+      "summary": "caluroso, con lluvias ocasionales"
+    }
+  ],
+  "Salta": [
+    {
+      "month": 1,
+      "avg_max_c": 27,
+      "avg_min_c": 16,
+      "precipitation_mm": 190,
+      "snow": false,
+      "summary": "caluroso, muy lluvioso"
+    },
+    {
+      "month": 2,
+      "avg_max_c": 26,
+      "avg_min_c": 16,
+      "precipitation_mm": 160,
+      "snow": false,
+      "summary": "templado, muy lluvioso"
+    },
+    {
+      "month": 3,
+      "avg_max_c": 25,
+      "avg_min_c": 15,
+      "precipitation_mm": 110,
+      "snow": false,
+      "summary": "templado, con lluvias ocasionales"
+    },
+    {
+      "month": 4,
+      "avg_max_c": 23,
+      "avg_min_c": 12,
+      "precipitation_mm": 30,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 5,
+      "avg_max_c": 21,
+      "avg_min_c": 8,
+      "precipitation_mm": 8,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 6,
+      "avg_max_c": 20,
+      "avg_min_c": 4,
+      "precipitation_mm": 3,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 7,
+      "avg_max_c": 20,
+      "avg_min_c": 3,
+      "precipitation_mm": 3,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 8,
+      "avg_max_c": 23,
+      "avg_min_c": 5,
+      "precipitation_mm": 4,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 9,
+      "avg_max_c": 25,
+      "avg_min_c": 8,
+      "precipitation_mm": 6,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 10,
+      "avg_max_c": 27,
+      "avg_min_c": 12,
+      "precipitation_mm": 25,
+      "snow": false,
+      "summary": "caluroso, mayormente seco"
+    },
+    {
+      "month": 11,
+      "avg_max_c": 28,
+      "avg_min_c": 14,
+      "precipitation_mm": 60,
+      "snow": false,
+      "summary": "caluroso, con lluvias ocasionales"
+    },
+    {
+      "month": 12,
+      "avg_max_c": 28,
+      "avg_min_c": 16,
+      "precipitation_mm": 130,
+      "snow": false,
+      "summary": "caluroso, con lluvias ocasionales"
+    }
+  ],
+  "Bariloche": [
+    {
+      "month": 1,
+      "avg_max_c": 21,
+      "avg_min_c": 6,
+      "precipitation_mm": 25,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 2,
+      "avg_max_c": 21,
+      "avg_min_c": 6,
+      "precipitation_mm": 25,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 3,
+      "avg_max_c": 18,
+      "avg_min_c": 4,
+      "precipitation_mm": 40,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 4,
+      "avg_max_c": 14,
+      "avg_min_c": 2,
+      "precipitation_mm": 70,
+      "snow": false,
+      "summary": "fresco, con lluvias ocasionales"
+    },
+    {
+      "month": 5,
+      "avg_max_c": 9,
+      "avg_min_c": 0,
+      "precipitation_mm": 140,
+      "snow": false,
+      "summary": "frío, con lluvias ocasionales"
+    },
+    {
+      "month": 6,
+      "avg_max_c": 6,
+      "avg_min_c": -2,
+      "precipitation_mm": 170,
+      "snow": true,
+      "summary": "frío, con nevadas frecuentes"
+    },
+    {
+      "month": 7,
+      "avg_max_c": 6,
+      "avg_min_c": -2,
+      "precipitation_mm": 160,
+      "snow": true,
+      "summary": "frío, con nevadas frecuentes"
+    },
+    {
+      "month": 8,
+      "avg_max_c": 8,
+      "avg_min_c": -2,
+      "precipitation_mm": 130,
+      "snow": true,
+      "summary": "frío, con nevadas frecuentes"
+    },
+    {
+      "month": 9,
+      "avg_max_c": 10,
+      "avg_min_c": 0,
+      "precipitation_mm": 70,
+      "snow": true,
+      "summary": "frío, con nevadas frecuentes"
+    },
+    {
+      "month": 10,
+      "avg_max_c": 14,
+      "avg_min_c": 2,
+      "precipitation_mm": 50,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 11,
+      "avg_max_c": 17,
+      "avg_min_c": 4,
+      "precipitation_mm": 35,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 12,
+      "avg_max_c": 20,
+      "avg_min_c": 6,
+      "precipitation_mm": 30,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    }
+  ],
+  "Ushuaia": [
+    {
+      "month": 1,
+      "avg_max_c": 14,
+      "avg_min_c": 5,
+      "precipitation_mm": 50,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 2,
+      "avg_max_c": 14,
+      "avg_min_c": 5,
+      "precipitation_mm": 45,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 3,
+      "avg_max_c": 12,
+      "avg_min_c": 3,
+      "precipitation_mm": 55,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 4,
+      "avg_max_c": 9,
+      "avg_min_c": 1,
+      "precipitation_mm": 55,
+      "snow": false,
+      "summary": "frío, mayormente seco"
+    },
+    {
+      "month": 5,
+      "avg_max_c": 6,
+      "avg_min_c": -1,
+      "precipitation_mm": 50,
+      "snow": true,
+      "summary": "frío, con nevadas frecuentes"
+    },
+    {
+      "month": 6,
+      "avg_max_c": 4,
+      "avg_min_c": -3,
+      "precipitation_mm": 45,
+      "snow": true,
+      "summary": "frío, con nevadas frecuentes"
+    },
+    {
+      "month": 7,
+      "avg_max_c": 4,
+      "avg_min_c": -3,
+      "precipitation_mm": 40,
+      "snow": true,
+      "summary": "frío, con nevadas frecuentes"
+    },
+    {
+      "month": 8,
+      "avg_max_c": 5,
+      "avg_min_c": -2,
+      "precipitation_mm": 40,
+      "snow": true,
+      "summary": "frío, con nevadas frecuentes"
+    },
+    {
+      "month": 9,
+      "avg_max_c": 7,
+      "avg_min_c": -1,
+      "precipitation_mm": 35,
+      "snow": true,
+      "summary": "frío, con nevadas frecuentes"
+    },
+    {
+      "month": 10,
+      "avg_max_c": 10,
+      "avg_min_c": 1,
+      "precipitation_mm": 35,
+      "snow": true,
+      "summary": "frío, con nevadas frecuentes"
+    },
+    {
+      "month": 11,
+      "avg_max_c": 12,
+      "avg_min_c": 3,
+      "precipitation_mm": 40,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 12,
+      "avg_max_c": 13,
+      "avg_min_c": 4,
+      "precipitation_mm": 50,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    }
+  ],
+  "El Calafate": [
+    {
+      "month": 1,
+      "avg_max_c": 19,
+      "avg_min_c": 6,
+      "precipitation_mm": 10,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 2,
+      "avg_max_c": 19,
+      "avg_min_c": 6,
+      "precipitation_mm": 10,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 3,
+      "avg_max_c": 16,
+      "avg_min_c": 4,
+      "precipitation_mm": 10,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 4,
+      "avg_max_c": 12,
+      "avg_min_c": 1,
+      "precipitation_mm": 15,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 5,
+      "avg_max_c": 7,
+      "avg_min_c": -2,
+      "precipitation_mm": 20,
+      "snow": false,
+      "summary": "frío, mayormente seco"
+    },
+    {
+      "month": 6,
+      "avg_max_c": 4,
+      "avg_min_c": -4,
+      "precipitation_mm": 20,
+      "snow": true,
+      "summary": "frío, con nevadas frecuentes"
+    },
+    {
+      "month": 7,
+      "avg_max_c": 3,
+      "avg_min_c": -5,
+      "precipitation_mm": 20,
+      "snow": true,
+      "summary": "frío, con nevadas frecuentes"
+    },
+    {
+      "month": 8,
+      "avg_max_c": 5,
+      "avg_min_c": -3,
+      "precipitation_mm": 15,
+      "snow": true,
+      "summary": "frío, con nevadas frecuentes"
+    },
+    {
+      "month": 9,
+      "avg_max_c": 9,
+      "avg_min_c": -1,
+      "precipitation_mm": 10,
+      "snow": false,
+      "summary": "frío, mayormente seco"
+    },
+    {
+      "month": 10,
+      "avg_max_c": 13,
+      "avg_min_c": 2,
+      "precipitation_mm": 10,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 11,
+      "avg_max_c": 16,
+      "avg_min_c": 4,
+      "precipitation_mm": 10,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 12,
+      "avg_max_c": 18,
+      "avg_min_c": 5,
+      "precipitation_mm": 10,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    }
+  ],
+  "Puerto Iguazú": [
+    {
+      "month": 1,
+      "avg_max_c": 33,
+      "avg_min_c": 21,
+      "precipitation_mm": 170,
+      "snow": false,
+      "summary": "caluroso, muy lluvioso"
+    },
+    {
+      "month": 2,
+      "avg_max_c": 32,
+      "avg_min_c": 21,
+      "precipitation_mm": 150,
+      "snow": false,
+      "summary": "caluroso, muy lluvioso"
+    },
+    {
+      "month": 3,
+      "avg_max_c": 31,
+      "avg_min_c": 20,
+      "precipitation_mm": 140,
+      "snow": false,
+      "summary": "caluroso, con lluvias ocasionales"
+    },
+    {
+      "month": 4,
+      "avg_max_c": 28,
+      "avg_min_c": 17,
+      "precipitation_mm": 160,
+      "snow": false,
+      "summary": "caluroso, muy lluvioso"
+    },
+    {
+      "month": 5,
+      "avg_max_c": 25,
+      "avg_min_c": 14,
+      "precipitation_mm": 170,
+      "snow": false,
+      "summary": "templado, muy lluvioso"
+    },
+    {
+      "month": 6,
+      "avg_max_c": 23,
+      "avg_min_c": 12,
+      "precipitation_mm": 130,
+      "snow": false,
+      "summary": "templado, con lluvias ocasionales"
+    },
+    {
+      "month": 7,
+      "avg_max_c": 23,
+      "avg_min_c": 11,
+      "precipitation_mm": 100,
+      "snow": false,
+      "summary": "templado, con lluvias ocasionales"
+    },
+    {
+      "month": 8,
+      "avg_max_c": 25,
+      "avg_min_c": 13,
+      "precipitation_mm": 90,
+      "snow": false,
+      "summary": "templado, con lluvias ocasionales"
+    },
+    {
+      "month": 9,
+      "avg_max_c": 27,
+      "avg_min_c": 15,
+      "precipitation_mm": 140,
+      "snow": false,
+      "summary": "caluroso, con lluvias ocasionales"
+    },
+    {
+      "month": 10,
+      "avg_max_c": 29,
+      "avg_min_c": 17,
+      "precipitation_mm": 200,
+      "snow": false,
+      "summary": "caluroso, muy lluvioso"
+    },
+    {
+      "month": 11,
+      "avg_max_c": 31,
+      "avg_min_c": 19,
+      "precipitation_mm": 170,
+      "snow": false,
+      "summary": "caluroso, muy lluvioso"
+    },
+    {
+      "month": 12,
+      "avg_max_c": 32,
+      "avg_min_c": 20,
+      "precipitation_mm": 170,
+      "snow": false,
+      "summary": "caluroso, muy lluvioso"
+    }
+  ],
+  "Santiago de Chile": [
+    {
+      "month": 1,
+      "avg_max_c": 30,
+      "avg_min_c": 13,
+      "precipitation_mm": 1,
+      "snow": false,
+      "summary": "caluroso, mayormente seco"
+    },
+    {
+      "month": 2,
+      "avg_max_c": 29,
+      "avg_min_c": 13,
+      "precipitation_mm": 1,
+      "snow": false,
+      "summary": "caluroso, mayormente seco"
+    },
+    {
+      "month": 3,
+      "avg_max_c": 27,
+      "avg_min_c": 11,
+      "precipitation_mm": 4,
+      "snow": false,
+      "summary": "caluroso, mayormente seco"
+    },
+    {
+      "month": 4,
+      "avg_max_c": 23,
+      "avg_min_c": 8,
+      "precipitation_mm": 13,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 5,
+      "avg_max_c": 18,
+      "avg_min_c": 6,
+      "precipitation_mm": 55,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 6,
+      "avg_max_c": 15,
+      "avg_min_c": 4,
+      "precipitation_mm": 80,
+      "snow": false,
+      "summary": "fresco, con lluvias ocasionales"
+    },
+    {
+      "month": 7,
+      "avg_max_c": 15,
+      "avg_min_c": 3,
+      "precipitation_mm": 75,
+      "snow": false,
+      "summary": "fresco, con lluvias ocasionales"
+    },
+    {
+      "month": 8,
+      "avg_max_c": 17,
+      "avg_min_c": 4,
+      "precipitation_mm": 55,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 9,
+      "avg_max_c": 19,
+      "avg_min_c": 6,
+      "precipitation_mm": 25,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 10,
+      "avg_max_c": 23,
+      "avg_min_c": 8,
+      "precipitation_mm": 13,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 11,
+      "avg_max_c": 26,
+      "avg_min_c": 10,
+      "precipitation_mm": 6,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 12,
+      "avg_max_c": 29,
+      "avg_min_c": 12,
+      "precipitation_mm": 2,
+      "snow": false,
+      "summary": "caluroso, mayormente seco"
+    }
+  ],
+  "Río de Janeiro": [
+    {
+      "month": 1,
+      "avg_max_c": 30,
+      "avg_min_c": 24,
+      "precipitation_mm": 140,
+      "snow": false,
+      "summary": "caluroso, con lluvias ocasionales"
+    },
+    {
+      "month": 2,
+      "avg_max_c": 31,
+      "avg_min_c": 24,
+      "precipitation_mm": 120,
+      "snow": false,
+      "summary": "caluroso, con lluvias ocasionales"
+    },
+    {
+      "month": 3,
+      "avg_max_c": 30,
+      "avg_min_c": 23,
+      "precipitation_mm": 130,
+      "snow": false,
+      "summary": "caluroso, con lluvias ocasionales"
+    },
+    {
+      "month": 4,
+      "avg_max_c": 28,
+      "avg_min_c": 22,
+      "precipitation_mm": 110,
+      "snow": false,
+      "summary": "caluroso, con lluvias ocasionales"
+    },
+    {
+      "month": 5,
+      "avg_max_c": 27,
+      "avg_min_c": 20,
+      "precipitation_mm": 80,
+      "snow": false,
+      "summary": "caluroso, con lluvias ocasionales"
+    },
+    {
+      "month": 6,
+      "avg_max_c": 26,
+      "avg_min_c": 19,
+      "precipitation_mm": 55,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 7,
+      "avg_max_c": 25,
+      "avg_min_c": 18,
+      "precipitation_mm": 45,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 8,
+      "avg_max_c": 26,
+      "avg_min_c": 19,
+      "precipitation_mm": 45,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 9,
+      "avg_max_c": 26,
+      "avg_min_c": 19,
+      "precipitation_mm": 55,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 10,
+      "avg_max_c": 27,
+      "avg_min_c": 20,
+      "precipitation_mm": 90,
+      "snow": false,
+      "summary": "caluroso, con lluvias ocasionales"
+    },
+    {
+      "month": 11,
+      "avg_max_c": 28,
+      "avg_min_c": 21,
+      "precipitation_mm": 105,
+      "snow": false,
+      "summary": "caluroso, con lluvias ocasionales"
+    },
+    {
+      "month": 12,
+      "avg_max_c": 29,
+      "avg_min_c": 23,
+      "precipitation_mm": 140,
+      "snow": false,
+      "summary": "caluroso, con lluvias ocasionales"
+    }
+  ],
+  "Florianópolis": [
+    {
+      "month": 1,
+      "avg_max_c": 29,
+      "avg_min_c": 21,
+      "precipitation_mm": 190,
+      "snow": false,
+      "summary": "caluroso, muy lluvioso"
+    },
+    {
+      "month": 2,
+      "avg_max_c": 29,
+      "avg_min_c": 22,
+      "precipitation_mm": 200,
+      "snow": false,
+      "summary": "caluroso, muy lluvioso"
+    },
+    {
+      "month": 3,
+      "avg_max_c": 28,
+      "avg_min_c": 21,
+      "precipitation_mm": 160,
+      "snow": false,
+      "summary": "caluroso, muy lluvioso"
+    },
+    {
+      "month": 4,
+      "avg_max_c": 26,
+      "avg_min_c": 18,
+      "precipitation_mm": 110,
+      "snow": false,
+      "summary": "templado, con lluvias ocasionales"
+    },
+    {
+      "month": 5,
+      "avg_max_c": 23,
+      "avg_min_c": 15,
+      "precipitation_mm": 100,
+      "snow": false,
+      "summary": "templado, con lluvias ocasionales"
+    },
+    {
+      "month": 6,
+      "avg_max_c": 21,
+      "avg_min_c": 13,
+      "precipitation_mm": 80,
+      "snow": false,
+      "summary": "templado, con lluvias ocasionales"
+    },
+    {
+      "month": 7,
+      "avg_max_c": 20,
+      "avg_min_c": 12,
+      "precipitation_mm": 90,
+      "snow": false,
+      "summary": "templado, con lluvias ocasionales"
+    },
+    {
+      "month": 8,
+      "avg_max_c": 21,
+      "avg_min_c": 13,
+      "precipitation_mm": 95,
+      "snow": false,
+      "summary": "templado, con lluvias ocasionales"
+    },
+    {
+      "month": 9,
+      "avg_max_c": 22,
+      "avg_min_c": 15,
+      "precipitation_mm": 130,
+      "snow": false,
+      "summary": "templado, con lluvias ocasionales"
+    },
+    {
+      "month": 10,
+      "avg_max_c": 24,
+      "avg_min_c": 17,
+      "precipitation_mm": 140,
+      "snow": false,
+      "summary": "templado, con lluvias ocasionales"
+    },
+    {
+      "month": 11,
+      "avg_max_c": 26,
+      "avg_min_c": 19,
+      "precipitation_mm": 140,
+      "snow": false,
+      "summary": "templado, con lluvias ocasionales"
+    },
+    {
+      "month": 12,
+      "avg_max_c": 28,
+      "avg_min_c": 20,
+      "precipitation_mm": 160,
+      "snow": false,
+      "summary": "caluroso, muy lluvioso"
+    }
+  ],
+  "Lima": [
+    {
+      "month": 1,
+      "avg_max_c": 26,
+      "avg_min_c": 19,
+      "precipitation_mm": 1,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 2,
+      "avg_max_c": 27,
+      "avg_min_c": 20,
+      "precipitation_mm": 1,
+      "snow": false,
+      "summary": "caluroso, mayormente seco"
+    },
+    {
+      "month": 3,
+      "avg_max_c": 26,
+      "avg_min_c": 19,
+      "precipitation_mm": 1,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 4,
+      "avg_max_c": 24,
+      "avg_min_c": 18,
+      "precipitation_mm": 0,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 5,
+      "avg_max_c": 22,
+      "avg_min_c": 16,
+      "precipitation_mm": 0,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 6,
+      "avg_max_c": 20,
+      "avg_min_c": 15,
+      "precipitation_mm": 0,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 7,
+      "avg_max_c": 19,
+      "avg_min_c": 15,
+      "precipitation_mm": 1,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 8,
+      "avg_max_c": 19,
+      "avg_min_c": 15,
+      "precipitation_mm": 1,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 9,
+      "avg_max_c": 20,
+      "avg_min_c": 15,
+      "precipitation_mm": 1,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 10,
+      "avg_max_c": 21,
+      "avg_min_c": 16,
+      "precipitation_mm": 0,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 11,
+      "avg_max_c": 23,
+      "avg_min_c": 17,
+      "precipitation_mm": 0,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 12,
+      "avg_max_c": 25,
+      "avg_min_c": 18,
+      "precipitation_mm": 0,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    }
+  ],
+  "Cusco": [
+    {
+      "month": 1,
+      "avg_max_c": 19,
+      "avg_min_c": 7,
+      "precipitation_mm": 160,
+      "snow": false,
+      "summary": "fresco, muy lluvioso"
+    },
+    {
+      "month": 2,
+      "avg_max_c": 19,
+      "avg_min_c": 7,
+      "precipitation_mm": 140,
+      "snow": false,
+      "summary": "fresco, con lluvias ocasionales"
+    },
+    {
+      "month": 3,
+      "avg_max_c": 19,
+      "avg_min_c": 6,
+      "precipitation_mm": 110,
+      "snow": false,
+      "summary": "fresco, con lluvias ocasionales"
+    },
+    {
+      "month": 4,
+      "avg_max_c": 20,
+      "avg_min_c": 4,
+      "precipitation_mm": 40,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 5,
+      "avg_max_c": 20,
+      "avg_min_c": 1,
+      "precipitation_mm": 10,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 6,
+      "avg_max_c": 19,
+      "avg_min_c": -1,
+      "precipitation_mm": 5,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 7,
+      "avg_max_c": 19,
+      "avg_min_c": -2,
+      "precipitation_mm": 5,
+      "snow": false,
+      "summary": "fresco, mayormente seco"
+    },
+    {
+      "month": 8,
+      "avg_max_c": 20,
+      "avg_min_c": 0,
+      "precipitation_mm": 10,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 9,
+      "avg_max_c": 21,
+      "avg_min_c": 3,
+      "precipitation_mm": 25,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 10,
+      "avg_max_c": 21,
+      "avg_min_c": 5,
+      "precipitation_mm": 50,
+      "snow": false,
+      "summary": "templado, mayormente seco"
+    },
+    {
+      "month": 11,
+      "avg_max_c": 21,
+      "avg_min_c": 6,
+      "precipitation_mm": 80,
+      "snow": false,
+      "summary": "templado, con lluvias ocasionales"
+    },
+    {
+      "month": 12,
+      "avg_max_c": 20,
+      "avg_min_c": 7,
+      "precipitation_mm": 120,
+      "snow": false,
+      "summary": "templado, con lluvias ocasionales"
+    }
+  ]
+}

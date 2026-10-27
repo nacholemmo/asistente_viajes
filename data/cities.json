@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Buenos Aires",
+    "iata": "AEP",
+    "country": "Argentina",
+    "currency": "ARS"
+  },
+  {
+    "name": "Mendoza",
+    "iata": "MDZ",
+    "country": "Argentina",
+    "currency": "ARS"
+  },
+  {
+    "name": "Córdoba",
+    "iata": "COR",
+    "country": "Argentina",
+    "currency": "ARS"
+  },
+  {
+    "name": "Rosario",
+    "iata": "ROS",
+    "country": "Argentina",
+    "currency": "ARS"
+  },
+  {
+    "name": "Salta",
+    "iata": "SLA",
+    "country": "Argentina",
+    "currency": "ARS"
+  },
+  {
+    "name": "Bariloche",
+    "iata": "BRC",
+    "country": "Argentina",
+    "currency": "ARS"
+  },
+  {
+    "name": "Ushuaia",
+    "iata": "USH",
+    "country": "Argentina",
+    "currency": "ARS"
+  },
+  {
+    "name": "El Calafate",
+    "iata": "FTE",
+    "country": "Argentina",
+    "currency": "ARS"
+  },
+  {
+    "name": "Puerto Iguazú",
+    "iata": "IGR",
+    "country": "Argentina",
+    "currency": "ARS"
+  },
+  {
+    "name": "Santiago de Chile",
+    "iata": "SCL",
+    "country": "Chile",
+    "currency": "CLP"
+  },
+  {
+    "name": "Río de Janeiro",
+    "iata": "GIG",
+    "country": "Brasil",
+    "currency": "BRL"
+  },
+  {
+    "name": "Florianópolis",
+    "iata": "FLN",
+    "country": "Brasil",
+    "currency": "BRL"
+  },
+  {
+    "name": "Lima",
+    "iata": "LIM",
+    "country": "Perú",
+    "currency": "PEN"
+  },
+  {
+    "name": "Cusco",
+    "iata": "CUZ",
+    "country": "Perú",
+    "currency": "PEN"
+  }
+]
